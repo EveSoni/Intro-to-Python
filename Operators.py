@@ -35,5 +35,3 @@ print(f"Is this statement true: {x<10 and x>7}")
 print(f"Any one statement is true: {x<10 or x>7}")
 print(f"Each statement is true then return false or vice-versa: {not{x<10 and x>7}}")
 
-
-
